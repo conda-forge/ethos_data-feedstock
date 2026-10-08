@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.1"
+  version: "0.4.0"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/FZJ-IEK3-VSA/ETHOS.Data/archive/refs/tags/${{ version }}.tar.gz
-  sha256: a2eaab7012b30859362090eb7f898a848733b2f3db7a5ccc66899f2a92294e7b
+  sha256: 37101528f47ae70fbeb34c6534f3917a873f19e417f1a008730645c01ca7b5ca
 
 build:
   number: 0
